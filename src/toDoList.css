@@ -1,0 +1,14 @@
+.to-do-list{
+    margin: 5px;
+}
+.remove-link {
+    background-color: #ecc6d9;
+    cursor: pointer;
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
